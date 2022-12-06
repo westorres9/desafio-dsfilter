@@ -1,0 +1,23 @@
+#dsf-listing-section {
+  margin: 0 auto;
+  background-color: #c2c2c2;
+  padding: 20px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dsf-listing-text {
+  color: #6f6f6f;
+}
+
+.dsf-listing-container {
+  width: 1200px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 20px 10px 20px;
+  background-color: #fff;
+  color: #fff;
+  border-radius: 5px;
+}

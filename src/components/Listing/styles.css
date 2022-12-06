@@ -1,0 +1,19 @@
+.dsf-listing-card {
+  width: auto;
+  height: 53px;
+  padding: 10px;
+  border: 1px solid #55bc04;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.dsf-listing-card p {
+  font-size: 12px;
+  color: #6f6f6f;
+}
+
+.dsf-listing-card h3 {
+  font-size: 16px;
+  color: #55bc04;
+}
+
